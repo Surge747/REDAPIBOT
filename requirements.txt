@@ -1,0 +1,9 @@
+pip~=24.2
+attrs~=24.2.0
+wheel~=0.38.4
+Pillow~=9.5.0
+setuptools~=65.5.1
+pyparsing~=3.1.4
+moviepy~=1.0.3
+praw~=7.7.1
+selenium~=4.24.0

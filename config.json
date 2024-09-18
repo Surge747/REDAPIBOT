@@ -1,0 +1,13 @@
+{
+  "subreddits": ["AmItheAsshole", "AskReddit", "todayilearned", "funny", "worldnews"],
+  "reddit_limit": 5,
+  "background_videos_folder": "background_videos/",
+  "background_music_folder": "background_music/",
+  "output_video_path": "output_video.mp4",
+  "youtube_upload": false,
+  "default_voice": "en-US-AriaNeural",
+  "default_rate": "+0%",
+  "max_chars_per_chunk": 100,
+  "comments_limit": 0,
+  "post_url": "https://www.reddit.com/r/AskReddit/comments/17pi027/for_those_who_have_careers_that_keep_them_out_at/"
+}
